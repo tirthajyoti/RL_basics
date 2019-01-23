@@ -1,4 +1,5 @@
 # Reinforcement Learning Basics
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tirthajyoti/RL_basics/master)
 
 ### What is reinforcement learning?
 Reinforcement Learning(RL) is a type of machine learning technique that enables an agent to learn in an interactive environment by trial and error using feedback from its own actions and experiences.
